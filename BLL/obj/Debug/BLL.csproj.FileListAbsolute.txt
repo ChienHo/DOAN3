@@ -1,0 +1,18 @@
+c:\users\ho\documents\visual studio 2017\Projects\Project_CellPhoneS\BLL\bin\Debug\BLL.dll
+c:\users\ho\documents\visual studio 2017\Projects\Project_CellPhoneS\BLL\bin\Debug\BLL.pdb
+c:\users\ho\documents\visual studio 2017\Projects\Project_CellPhoneS\BLL\bin\Debug\DAL.dll
+c:\users\ho\documents\visual studio 2017\Projects\Project_CellPhoneS\BLL\bin\Debug\DAL.pdb
+c:\users\ho\documents\visual studio 2017\Projects\Project_CellPhoneS\BLL\bin\Debug\DAL.dll.config
+c:\users\ho\documents\visual studio 2017\Projects\Project_CellPhoneS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\ho\documents\visual studio 2017\Projects\Project_CellPhoneS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+c:\users\ho\documents\visual studio 2017\Projects\Project_CellPhoneS\BLL\obj\Debug\BLL.dll
+c:\users\ho\documents\visual studio 2017\Projects\Project_CellPhoneS\BLL\obj\Debug\BLL.pdb
+D:\DO AN\ĐồÁn3\Project_CellPhoneS\BLL\bin\Debug\BLL.dll
+D:\DO AN\ĐồÁn3\Project_CellPhoneS\BLL\bin\Debug\BLL.pdb
+D:\DO AN\ĐồÁn3\Project_CellPhoneS\BLL\bin\Debug\DAL.dll
+D:\DO AN\ĐồÁn3\Project_CellPhoneS\BLL\bin\Debug\DAL.pdb
+D:\DO AN\ĐồÁn3\Project_CellPhoneS\BLL\bin\Debug\DAL.dll.config
+D:\DO AN\ĐồÁn3\Project_CellPhoneS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\DO AN\ĐồÁn3\Project_CellPhoneS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\DO AN\ĐồÁn3\Project_CellPhoneS\BLL\obj\Debug\BLL.dll
+D:\DO AN\ĐồÁn3\Project_CellPhoneS\BLL\obj\Debug\BLL.pdb
