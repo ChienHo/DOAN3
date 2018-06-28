@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.75, 19.125" name="DataClassesCellPhoneS">
+  <DataContextMoniker Name="/DataClassesCellPhoneSDataContext" />
+  <nestedChildShapes>
+    <classShape Id="5b7b3dd0-69c4-4dd2-a29c-72147986cff3" absoluteBounds="6.25, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/DataClassesCellPhoneSDataContext/ChiTietHDN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2e85f4eb-f626-4e3d-becd-693e22c6fb91" absoluteBounds="6.265, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4ec7f1e0-f956-47d8-ab15-bda98a2f144a" absoluteBounds="6.75, 8.25, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/DataClassesCellPhoneSDataContext/Quyen" />
+      <nestedChildShapes>
+        <elementListCompartment Id="822c2f86-40e5-4bb9-9219-2d4e66ee1181" absoluteBounds="6.765, 8.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e1af46dd-9d55-457f-90e7-9732e1b99810" absoluteBounds="6.25, 3.875, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/DataClassesCellPhoneSDataContext/ChiTietHDX" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8d998edf-47aa-46f2-9ab7-1c40ef5db218" absoluteBounds="6.265, 4.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1d8fecdc-a86a-4508-84d2-0222050c5913" absoluteBounds="3.5, 2.625, 2, 4.2708154296875">
+      <DataClassMoniker Name="/DataClassesCellPhoneSDataContext/DienThoai" />
+      <nestedChildShapes>
+        <elementListCompartment Id="128a6085-8bbc-4201-b1e6-ba77379d1fac" absoluteBounds="3.515, 3.085, 1.9700000000000002, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2c19de6b-2922-462a-9120-bd1abe7deab9" absoluteBounds="6.25, 16.875, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/DataClassesCellPhoneSDataContext/GioHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="110a1190-4dda-4df2-a91e-1b5a24cfd606" absoluteBounds="6.265, 17.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="74d7cddc-c44a-4718-a4e8-1f89a13be030" absoluteBounds="3.5, 9, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DataClassesCellPhoneSDataContext/HoaDonN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d66b5428-0de9-4749-8748-f83cec43ddd3" absoluteBounds="3.515, 9.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="98a851aa-4fba-4a77-bae5-0608108ceb1e" absoluteBounds="3.5, 14.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DataClassesCellPhoneSDataContext/HoaDonX" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6b9410b9-a12c-46a7-82ac-d12158e46b4b" absoluteBounds="3.515, 15.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e3e444af-b3ec-466b-a6c3-eb094e4ced29" absoluteBounds="3.5, 16.875, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/DataClassesCellPhoneSDataContext/KhachHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5a1d1bd6-96d4-4a72-9dfc-5e48ba33cad5" absoluteBounds="3.515, 17.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="04d236b4-29f0-483b-b8c9-cfc1d64b9f74" absoluteBounds="0.75, 4, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/DataClassesCellPhoneSDataContext/LoaiDT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0c349c70-2b79-41a9-9b21-6e99cb98339e" absoluteBounds="0.765, 4.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="65c73b2b-5aab-44e3-9010-a6ac0ce2a68e" absoluteBounds="3.5, 11.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DataClassesCellPhoneSDataContext/NhaCC" />
+      <nestedChildShapes>
+        <elementListCompartment Id="02d71c30-ffe5-4ec7-81a2-b5ead12a4faf" absoluteBounds="3.515, 11.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c8efa285-3f27-49cf-85eb-6b42c854ed13" absoluteBounds="9.5, 7.375, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/DataClassesCellPhoneSDataContext/NhanVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6da60b70-e2ca-49f6-a47c-d3702e0c80b2" absoluteBounds="9.515, 7.835, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.5 : 2.625); (4.5 : 1.6874995); (5.85416666666667 : 1.6874995 : JumpStart); (6.02083333333333 : 1.6874995 : JumpEnd); (6.25 : 1.6874995)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesCellPhoneSDataContext/DienThoai/DienThoai_ChiTietHDN" />
+      <nodes>
+        <classShapeMoniker Id="1d8fecdc-a86a-4508-84d2-0222050c5913" />
+        <classShapeMoniker Id="5b7b3dd0-69c4-4dd2-a29c-72147986cff3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.76044840494792); (5.79166666666667 : 4.76044840494792 : JumpStart); (6.02083333333333 : 4.76044840494792 : JumpEnd); (6.25 : 4.76044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesCellPhoneSDataContext/DienThoai/DienThoai_ChiTietHDX" />
+      <nodes>
+        <classShapeMoniker Id="1d8fecdc-a86a-4508-84d2-0222050c5913" />
+        <classShapeMoniker Id="e1af46dd-9d55-457f-90e7-9732e1b99810" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 9); (5.875 : 8.625); (5.875 : 2.23160087109375); (6.25 : 2.23160087109375)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesCellPhoneSDataContext/HoaDonN/HoaDonN_ChiTietHDN" />
+      <nodes>
+        <classShapeMoniker Id="74d7cddc-c44a-4718-a4e8-1f89a13be030" />
+        <classShapeMoniker Id="5b7b3dd0-69c4-4dd2-a29c-72147986cff3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 15.4142976888021); (5.97916666666667 : 15.4142976888021 : JumpStart); (6.14583333333333 : 15.4142976888021 : JumpEnd); (6.46875 : 15.4142976888021); (6.46875 : 5.64589680989583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesCellPhoneSDataContext/HoaDonX/HoaDonX_ChiTietHDX" />
+      <nodes>
+        <classShapeMoniker Id="98a851aa-4fba-4a77-bae5-0608108ceb1e" />
+        <classShapeMoniker Id="e1af46dd-9d55-457f-90e7-9732e1b99810" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 16.9384254047476); (6.0625 : 16.3759254047476); (6.0625 : 5.23442460742187); (6.25 : 5.23442460742187)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesCellPhoneSDataContext/KhachHang/KhachHang_ChiTietHDX" />
+      <nodes>
+        <classShapeMoniker Id="e3e444af-b3ec-466b-a6c3-eb094e4ced29" />
+        <classShapeMoniker Id="e1af46dd-9d55-457f-90e7-9732e1b99810" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 17.9195643234675); (6.25 : 17.9195643234675)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesCellPhoneSDataContext/KhachHang/KhachHang_GioHang" />
+      <nodes>
+        <classShapeMoniker Id="e3e444af-b3ec-466b-a6c3-eb094e4ced29" />
+        <classShapeMoniker Id="2c19de6b-2922-462a-9120-bd1abe7deab9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.69314697265625); (3.5 : 4.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesCellPhoneSDataContext/LoaiDT/LoaiDT_DienThoai" />
+      <nodes>
+        <classShapeMoniker Id="04d236b4-29f0-483b-b8c9-cfc1d64b9f74" />
+        <classShapeMoniker Id="1d8fecdc-a86a-4508-84d2-0222050c5913" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 11.4369285109675); (5.9375 : 10.9994285109675); (5.9375 : 1.18749775); (6.25 : 1.18749775)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesCellPhoneSDataContext/NhaCC/NhaCC_ChiTietHDN" />
+      <nodes>
+        <classShapeMoniker Id="65c73b2b-5aab-44e3-9010-a6ac0ce2a68e" />
+        <classShapeMoniker Id="5b7b3dd0-69c4-4dd2-a29c-72147986cff3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 8.94314697265625); (9.5 : 8.94314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesCellPhoneSDataContext/Quyen/Quyen_NhanVien" />
+      <nodes>
+        <classShapeMoniker Id="4ec7f1e0-f956-47d8-ab15-bda98a2f144a" />
+        <classShapeMoniker Id="c8efa285-3f27-49cf-85eb-6b42c854ed13" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

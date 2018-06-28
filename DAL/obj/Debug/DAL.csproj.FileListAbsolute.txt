@@ -1,0 +1,13 @@
+c:\users\ho\documents\visual studio 2017\Projects\Project_CellPhoneS\DAL\bin\Debug\DAL.dll.config
+c:\users\ho\documents\visual studio 2017\Projects\Project_CellPhoneS\DAL\bin\Debug\DAL.dll
+c:\users\ho\documents\visual studio 2017\Projects\Project_CellPhoneS\DAL\bin\Debug\DAL.pdb
+c:\users\ho\documents\visual studio 2017\Projects\Project_CellPhoneS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+c:\users\ho\documents\visual studio 2017\Projects\Project_CellPhoneS\DAL\obj\Debug\DAL.dll
+c:\users\ho\documents\visual studio 2017\Projects\Project_CellPhoneS\DAL\obj\Debug\DAL.pdb
+D:\DO AN\ĐồÁn3\Project_CellPhoneS\DAL\bin\Debug\DAL.dll.config
+D:\DO AN\ĐồÁn3\Project_CellPhoneS\DAL\bin\Debug\DAL.dll
+D:\DO AN\ĐồÁn3\Project_CellPhoneS\DAL\bin\Debug\DAL.pdb
+D:\DO AN\ĐồÁn3\Project_CellPhoneS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\DO AN\ĐồÁn3\Project_CellPhoneS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DO AN\ĐồÁn3\Project_CellPhoneS\DAL\obj\Debug\DAL.dll
+D:\DO AN\ĐồÁn3\Project_CellPhoneS\DAL\obj\Debug\DAL.pdb
